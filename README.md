@@ -32,7 +32,7 @@ En el desarrollo se utilizaron los siguientes widgets de organización:
 
 1.  Clonar el repositorio:
     ```bash
-    git clone [https://github.com/TU_USUARIO/nombre-de-tu-repo.git](https://github.com/TU_USUARIO/nombre-de-tu-repo.git)
+    git clone [https://github.com/Merlo1907/CitaMed_Tarea3_PrograMovil.git](https://github.com/Merlo1907/CitaMed_Tarea3_PrograMovil.git)
     ```
 2.  Obtener las dependencias:
     ```bash
